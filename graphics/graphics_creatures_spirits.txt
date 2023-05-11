@@ -1,0 +1,6 @@
+graphics_creatures_spirits
+
+[OBJECT:GRAPHICS]
+
+[CREATURE_GRAPHICS:WOLF_SPIRIT]
+    [DEFAULT:WOLFSPIRIT:0:0:AS_IS]
