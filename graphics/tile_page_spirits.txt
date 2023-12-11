@@ -6,3 +6,8 @@ tile_page_spirits
     [FILE:images/wolfspirit.png]
     [TILE_DIM:32:32]
     [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:CATSPIRIT]
+    [FILE:images/catspirit.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
