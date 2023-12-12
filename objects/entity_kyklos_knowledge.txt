@@ -4,3 +4,4 @@ entity_kyklos_knowledge
 
 [SELECT_ENTITY:MOUNTAIN]
         [PERMITTED_BUILDING:KYKLOS]
+
