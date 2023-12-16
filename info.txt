@@ -5,5 +5,5 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.0.0]
 [AUTHOR:Enfraguance]
 [NAME:Mycurious]
-[DESCRIPTION:The start]
+[DESCRIPTION:The start, Pixel art done by Pixel Benny @thepixelbenny (twitter) and ElfyBean (ko-fi.com/elfybean)]
 
