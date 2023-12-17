@@ -16,3 +16,8 @@ tile_page_amalgam
     [FILE:images/amaltile.png]
     [TILE_DIM:32:32]
     [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:BELALGAM]
+    [FILE:images/belalgam.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
