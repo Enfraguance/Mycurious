@@ -9,4 +9,5 @@
 [STEAM_TITLE:Mycurious]
 [STEAM_DESCRIPTION:An abjection of the soul, Pixel art done by Pixel Benny @thepixelbenny (twitter) and ElfyBean (ko-fi.com/elfybean)]]
 [STEAM_TAG:mod]
-[STEAM_FILE_ID:3120314444]
+
+[STEAM_FILE_ID:3120337326]
