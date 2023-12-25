@@ -11,5 +11,5 @@
 [STEAM_TAG:megabeast]
 [STEAM_TAG:creature]
 [STEAM_TAG:building]
-[STEAM_CHANGELOG:Cat spirit interaction tweak; Joy(cats will cast less often)]
+[STEAM_CHANGELOG:Cat spirit interaction tweak; Joy(now called purring)]
 [STEAM_FILE_ID:3120337326]
