@@ -3,6 +3,6 @@ tile_page_gnome
 [OBJECT:TILE_PAGE]
 
 [TILE_PAGE:GNOME]
-    [FILE:images/gnome.png]
+    [FILE:images/blight.png]
     [TILE_DIM:32:32]
     [PAGE_DIM_PIXELS:32:32]
