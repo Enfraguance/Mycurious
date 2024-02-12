@@ -11,5 +11,5 @@
 [STEAM_TAG:megabeast]
 [STEAM_TAG:creature]
 [STEAM_TAG:building]
-[STEAM_CHANGELOG: Addition of elemental amalgam forms, Frog (earth), Horse (air), Bird (fire), Hippo (water).]
+[STEAM_CHANGELOG: Addition of elemental amalgam forms, Frog (earth), Horse (air), Bird (fire), Hippo (water) Amalgams will gain affinity upon aggro (form will remain static for 3000 frames). Addition of a small varient of spirit animals, Ferret spirit will shift into Mouse(flee 1000 frames) and Bird(fly 3000 frames) form when inside combat. Cat Spirit aggression transformations will now last longer (1500 frames each). Dwarves will now converse will either Demeter(medium spirit) and feel pride or Minerva(small spirit) and feel passion. Refining an amalgam's ambergris now has a chance to manifest another amalgam.]
 [STEAM_FILE_ID:3120337326]
