@@ -21,3 +21,23 @@ tile_page_amalgam
     [FILE:images/belalgam.png]
     [TILE_DIM:32:32]
     [PAGE_DIM_PIXELS:64:64]
+	
+[TILE_PAGE:AMALGAMRA]
+    [FILE:images/amalgamRa.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
+	
+[TILE_PAGE:AMALGAMLA]
+    [FILE:images/amalgamLa.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
+	
+[TILE_PAGE:AMALGAMVA]
+    [FILE:images/amalgamVa.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
+	
+[TILE_PAGE:AMALGAMHA]
+    [FILE:images/amalgamHa.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
