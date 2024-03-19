@@ -7,7 +7,7 @@ creature_magic
 	[NAME:Scripture:Scripture:Scripture]
 	[CASTE_NAME:Scripture:Scripture:Scripture]
 	[CREATURE_TILE:'O'][COLOR:3:2:1]
-	[AT_PEACE_WITH_WILDLIFE]
+	[BODY:BASIC_1PARTBODY]
 	[SMALL_REMAINS]
 	[TRAPAVOID]
 	[NOEXERT]
