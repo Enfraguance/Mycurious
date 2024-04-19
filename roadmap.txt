@@ -2,6 +2,7 @@
 #workshop/plant#//hooka and herb, smokeable communal smoking, area of effect mood changes
 #creature#//Gnome Council 3, specialized squad of gnomes, with magical abilities
 #vermin creature interaction# Spirit attunement (invisible vermin during creature spawn to prevent mass summoning)
+#vermin creature summoning rebalance#// Imp/deity vermin manifestation that chooses a dwarf nearby instead of current chance to hit all nearby targets.
 #creature#//Amalgam script creatures, 3 variations Ek Ti Re, swarmer, scripter, Physical (scripture circles)
 #creature#//Scripture circles for scripter manifestation of affect (on and off)
 #creature#//mycelium webbing, budding growable mushroom forest floor for mat generation (add tag class, adds immunity class)
