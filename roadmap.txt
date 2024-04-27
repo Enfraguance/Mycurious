@@ -1,13 +1,36 @@
 #vermin creature#//Gnome vermin colony, 3 variations, elder lich corruption for dwarves, skeleton summon with coming out of ground transition, corrupted spirit animals.
-#workshop/plant#//hooka and herb, smokeable communal smoking, area of effect mood changes
-#creature#//Gnome Council 3, specialized squad of gnomes, with magical abilities
-#vermin creature interaction# Spirit attunement (invisible vermin during creature spawn to prevent mass summoning)
+##(mushgnome, clockgnome, 3 hives, spirit manifestation, skeleton) Elfy
+
 #vermin creature summoning rebalance#// Imp/deity vermin manifestation that chooses a dwarf nearby instead of current chance to hit all nearby targets.
-#creature#//Amalgam script creatures, 3 variations Ek Ti Re, swarmer, scripter, Physical (scripture circles)
+#workshop and reaction#//spirit animal realignment/cure
+#workshop/plant#//hooka and herb, smokeable communal smoking, area of effect mood changes
+##(Seeker, Hooka, herb) ...Elfy?
+
+#creature#//large spirit animal manifestation, Elk that turns into a Bear or Lion
+##(Elk, Bear, Lion, Manticore) Benny
+
+#creature#//Gnome Council 3, specialized squad of gnomes, with magical abilities
+
+#creature#//Amalgam script creatures, 3 variations Ek Ti Re, swarmer, scripter (scripture circles), Physical
 #creature#//Scripture circles for scripter manifestation of affect (on and off)
+
 #creature#//mycelium webbing, budding growable mushroom forest floor for mat generation (add tag class, adds immunity class)
-#workshop reaction#//Creature crafting, syndrome inflicting item creation requiring summon locally to manifest
+(immobile toggle fumigator for migration of buds? mushroom whisperer [spore friend syndrome with make pet interaction] for making mushpets for burrow designation)
+[toggleable reproduction of the mycellium layer spread/solid fumigation]
+##(webbing tesselation, mushroom fruited bodies, fumigator) Elfy
+
+#workshop reaction#//Creature crafting, syndrome inflicting item creation requiring 2 creatures locally to manifest
 #vermin creature interaction#//gnome artifical hive, clockwork mat generation
 #workshop#//factory mushroom for creating spores for mushroom variation of crafting
-#workshop reaction#//creature based furniture, living mushroom couches/lamps/etc?
+##(spirit materia, clockwork bits, mushfactory) Elfy
+
+#workshop reaction#//creature based objects, living mushroom couches/lamps/etc, creatures moving around to serve purposes with syndromes as messengers (IE_TARGET specialized for creature data net use?)
+#creatures and creation crafting/affect#//multipiece model of a mushroom hive complex using syndrome messengers for working in tandem
+##(messenger spores, controller mushroom, production mushrooms, effect mushrooms, defense mushrooms) Elfy concept art, Benny sprites
+
+#reactions and products#// things to do with resources ie, buildings (fumeigators/hooka/spore factory/rechargeable (brainwashed creatures)----- >machinery??)
+
 #workshop reaction#//restartable clockwork constructs, generator gives off on state syndrome.
+
+#civ creature#//Gnome w/ use of mushrooms for social economics/crafting (clockwork, spirit materia, mushroom forest)
+##(gnome creature sheet)  ryno?
