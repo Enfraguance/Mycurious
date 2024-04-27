@@ -4,7 +4,7 @@
 #vermin creature summoning rebalance#// Imp/deity vermin manifestation that chooses a dwarf nearby instead of current chance to hit all nearby targets.
 #workshop and reaction#//spirit animal realignment/cure
 #workshop/plant#//hooka and herb, smokeable communal smoking, area of effect mood changes
-##(Seeker, Hooka, herb) ...Elfy?
+##(Seeker, Hooka, herb) seeker: elfy hooka/herb: benny
 
 #creature#//large spirit animal manifestation, Elk that turns into a Bear or Lion
 ##(Elk, Bear, Lion, Manticore) Benny
