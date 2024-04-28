@@ -14,10 +14,56 @@
 #creature#//Amalgam script creatures, 3 variations Ek Ti Re, swarmer, scripter (scripture circles), Physical
 #creature#//Scripture circles for scripter manifestation of affect (on and off)
 
-#creature#//mycelium webbing, budding growable mushroom forest floor for mat generation (add tag class, adds immunity class)
+#creature#//mycelium webbing, budding growable mushroom forest floor for mat generation
 (immobile toggle fumigator for migration of buds? mushroom whisperer [spore friend syndrome with make pet interaction] for making mushpets for burrow designation)
 [toggleable reproduction of the mycellium layer spread/solid fumigation]
 ##(webbing tesselation, mushroom fruited bodies, fumigator) Elfy
+
+#### Mushcomp
+
+Stinkhorn:crafting input matrix -> spores -v
+Fly agaric hybrid Mycena subcyanocephala: main protein processor -> floating glob
+-Elfy
+
+Spores: vermin local synapse
+Floating glob: long distance protein messenger
+-Elfy
+
+Morel colony: food gen node processor
+-Elfy
+
+killable then harvest nodes:
+Chicken of the woods
+oyster
+Calbovista
+-Benny
+
+Lions mane: fabric mat gen and heavy metal node processor
+-Elfy
+
+killable then harvest nodes:
+chanterelle: lead
+shiitake: zinc
+Kikurage: iron
+Fairy ring: neodymium
+-Benny
+
+Dried tinder fungi: fuel
+blood tooth mush: resin gem gen
+-Elfy
+
+??Mycena lampadis: light source
+
+Red cup fungi: defensive input craft controller
+Redlead Roundhead: defensive synapse controller first fed by main computer then craft controller
+(protein messenger allows trance, synapse creates self targeting interaction that only works on trance -> own offense packet creature)
+-Elfy
+
+Puffballs: sporic offensive bulwark
+Cortinarius vanduzerensis: slimey material emission? defensive?
+veiled lady: web/net throwing offense
+??Cordyceps infected creature for controlling groups of enemies?
+-Benny
 
 #workshop reaction#//Creature crafting, syndrome inflicting item creation requiring 2 creatures locally to manifest
 #vermin creature interaction#//gnome artifical hive, clockwork mat generation
