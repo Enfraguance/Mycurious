@@ -24,6 +24,7 @@
 Stinkhorn:crafting input matrix -> spores -v
 Fly agaric hybrid Mycena subcyanocephala: main protein processor -> floating glob
 -Elfy
+(mycellium instant transmission?)
 
 Spores: vermin local synapse
 Floating glob: long distance protein messenger
@@ -64,6 +65,8 @@ Cortinarius vanduzerensis: slimey material emission? defensive?
 veiled lady: web/net throwing offense
 ??Cordyceps infected creature for controlling groups of enemies?
 -Benny
+
+#creature variation#// mycellium
 
 #workshop reaction#//Creature crafting, syndrome inflicting item creation requiring 2 creatures locally to manifest
 #vermin creature interaction#//gnome artifical hive, clockwork mat generation
