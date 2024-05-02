@@ -1,0 +1,33 @@
+tile_page_spirits
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:WOLFSPIRIT]
+    [FILE:images/wolfspirit.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:CATSPIRIT]
+    [FILE:images/catspirit.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:FOXSPIRIT]
+    [FILE:images/foxspirit.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:MOUSESPIRIT]
+    [FILE:images/mousespirit.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:FERRETSPIRIT]
+    [FILE:images/ferretspirit.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:BIRDSPIRIT]
+    [FILE:images/birdspirit.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]

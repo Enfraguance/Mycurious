@@ -1,0 +1,43 @@
+tile_page_amalgam
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:AMALGAM]
+    [FILE:images/amalgam.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
+
+[TILE_PAGE:ANMALGAM]
+    [FILE:images/anmalgam.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
+
+[TILE_PAGE:AMALGAMTILE]
+    [FILE:images/amaltile.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:BELALGAM]
+    [FILE:images/belalgam.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
+	
+[TILE_PAGE:AMALGAMRA]
+    [FILE:images/amalgamRa.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
+	
+[TILE_PAGE:AMALGAMLA]
+    [FILE:images/amalgamLa.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
+	
+[TILE_PAGE:AMALGAMVA]
+    [FILE:images/amalgamVa.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]
+	
+[TILE_PAGE:AMALGAMHA]
+    [FILE:images/amalgamHa.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:64:64]

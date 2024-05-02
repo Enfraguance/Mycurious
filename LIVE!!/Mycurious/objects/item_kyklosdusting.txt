@@ -1,0 +1,7 @@
+item_kyklosdusting
+
+[OBJECT:ITEM]
+
+[ITEM_TOOL:ITEM_KYKLOSDUSTING]
+        [NAME:kyklos dust:kyklos dustings]
+        [SIZE:25]
