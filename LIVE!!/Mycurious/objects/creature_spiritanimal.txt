@@ -727,7 +727,6 @@ creature_spiritanimal
 	[CAN_LEARN]
 	[CAN_SPEAK]
 	[CANOPENDOORS]
-	[DOES_NOT_EXIST]
 	[EXTRAVISION]
 	[NO_SLEEP]
 	[NOT_LIVING]

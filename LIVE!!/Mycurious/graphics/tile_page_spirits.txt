@@ -30,4 +30,9 @@ tile_page_spirits
 [TILE_PAGE:BIRDSPIRIT]
     [FILE:images/birdspirit.png]
     [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:96:64]
+	
+[TILE_PAGE:BIRDCORPSE]
+    [FILE:images/birdtile.png]
+    [TILE_DIM:32:32]
     [PAGE_DIM_PIXELS:32:32]
