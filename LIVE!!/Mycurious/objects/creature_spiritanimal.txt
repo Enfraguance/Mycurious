@@ -307,6 +307,7 @@ creature_spiritanimal
     [ADOPTS_OWNER]
     [CAN_LEARN]
     [CAN_SPEAK]
+	[DOES_NOT_EXIST]
     [CANOPENDOORS]
     [EXTRAVISION]
     [NO_SLEEP]
