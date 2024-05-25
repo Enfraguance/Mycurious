@@ -1,0 +1,7 @@
+graphics_creatures_gnome
+
+[OBJECT:GRAPHICS]
+
+[CREATURE_GRAPHICS:GNOME]
+    [DEFAULT:GNOME:0:0:AS_IS]
+
