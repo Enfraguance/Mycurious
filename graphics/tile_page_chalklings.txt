@@ -1,0 +1,18 @@
+tile_page_chalklings
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:EK]
+    [FILE:images/Ek.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32] 
+
+[TILE_PAGE:TI]
+    [FILE:images/Ti.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32] 
+
+[TILE_PAGE:RE]
+    [FILE:images/Re.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32] 
