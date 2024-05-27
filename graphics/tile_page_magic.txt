@@ -2,7 +2,22 @@ tile_page_magic
 
 [OBJECT:TILE_PAGE]
 
-[TILE_PAGE:SCRIPTURE]
+[TILE_PAGE:SCRIPTUREAH]
     [FILE:images/ScriptureAH.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:SCRIPTUREO]
+    [FILE:images/ScriptureO.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
+	
+[TILE_PAGE:MOTE]
+    [FILE:images/mote.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:SPARK]
+    [FILE:images/spark.png]
     [TILE_DIM:32:32]
     [PAGE_DIM_PIXELS:32:32]
