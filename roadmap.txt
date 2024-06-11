@@ -70,6 +70,8 @@ veiled lady: web/net throwing offense
 ??Cordyceps infected creature for controlling groups of enemies?
 -Benny
 
+bloodtooth varient: mushwhisperer consumed by mushrooms, becoming ritual sacfifice will spawn mushpeeps
+
 #creature variation#// mycellium
 
 #workshop reaction#//Creature crafting, syndrome inflicting item creation requiring 2 creatures locally to manifest
