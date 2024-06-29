@@ -47,4 +47,17 @@ tile_page_spirits
     [TILE_DIM:32:32]
     [PAGE_DIM_PIXELS:96:64]
 
+[TILE_PAGE:ELKSPIRITTILE]
+    [FILE:images/elkspirittile.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
 
+[TILE_PAGE:LIONSPIRITTILE]
+    [FILE:images/lionspirittile.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:BEARSPIRITTILE]
+    [FILE:images/bearspirittile.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
