@@ -4,6 +4,8 @@
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:33]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:1.1.17]
 [NAME:Mycurious]
+[AUTHOR:Enfraguance]
+[STEAM_TITLE:Mycurious]
 [DESCRIPTION: Kyklos, or a summoning circle to summon a spirit animal for your dwarves!]
 [STEAM_TAG:megabeast]
 [STEAM_TAG:creature]
