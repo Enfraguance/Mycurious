@@ -21,3 +21,8 @@ tile_page_magic
     [FILE:images/spark.png]
     [TILE_DIM:32:32]
     [PAGE_DIM_PIXELS:32:32]
+
+[TILE_PAGE:GRAVELING]
+    [FILE:images/seeker.png]
+    [TILE_DIM:32:32]
+    [PAGE_DIM_PIXELS:32:32]
