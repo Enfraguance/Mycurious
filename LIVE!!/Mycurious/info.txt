@@ -10,5 +10,5 @@
 [STEAM_TAG:megabeast]
 [STEAM_TAG:creature]
 [STEAM_TAG:building]
-[STEAM_CHANGELOG:1.1.20 kyklos will no longer expell a gas, instead a worker graveling which will hit 100% of the time, affecting 1 dwarf nearby/selected.]
+[STEAM_CHANGELOG:1.1.20 kyklos will only expell gas when Ö̸̡̧̨̻̺̙͖͇͕͖̭̦̯̑̓̂͜͜n̶̝̭̬̫̹͍̰͖͕̫̹̐̀̓ͅę̶̧͖̰̩̤̣̫̣̖̣̖̪̬̊͋̅͋̇̎̄̈́͋̄̚̚͠͝ is near, instead a worker graveling will assign spiritual guides, which will hit 100% of the time, affecting 1 dwarf nearby.]
 [STEAM_FILE_ID:3120337326]
