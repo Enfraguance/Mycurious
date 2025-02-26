@@ -1,11 +1,7 @@
 #vermin creature#//Gnome vermin colony, 3 variations, elder lich corruption for dwarves, skeleton summon with coming out of ground transition, corrupted spirit animals.
 ##(mushgnome, clockgnome, 3 hives, spirit manifestation, skeleton) Elfy
-
-#vermin creature summoning rebalance#// Imp/deity vermin manifestation that chooses a dwarf nearby instead of current chance to hit all nearby targets.
 #workshop and reaction#//spirit animal realignment/cure
 #workshop/plant#//hooka and herb, smokeable communal smoking, area of effect mood changes
-##(Seeker, Hooka, herb)##// seeker: elfy hooka/herb: benny
-seekers will decide upon communion who to target, aswell as decide whether to first inflict with an egregore then attack to decimate self(vermin bite die)
 
 #creature#//Gnome Council 3, specialized squad of gnomes, with magical abilities
 
@@ -31,27 +27,27 @@ Floating glob: long distance protein messenger
 -Elfy
 
 Morel colony: food gen node processor
--Elfy
+#art done
 
 killable then harvest nodes:
 Chicken of the woods
 oyster
 Calbovista
--Benny
+#art done
 
 Lions mane: fabric mat gen and heavy metal node processor
--Elfy
+#art done
 
 killable then harvest nodes:
 chanterelle: lead
 shiitake: zinc
 Kikurage: iron
 Fairy ring: neodymium
--Benny
+#art done
 
 Dried tinder fungi: fuel
 blood tooth mush: resin gem gen
--Elfy
+#art done
 
 ??Mycena lampadis: light source
 
